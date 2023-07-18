@@ -7,7 +7,7 @@
 
 💬 Ask me about HTML, CSS, and JavaScript concepts. Java and PHP are my favorite languages to use for backend.
 
-📫 How to reach me: Feel free to drop me an [email](mailto:hellypatel.1104@gmail.com) and also checkout my [linkedIn](https://leetcode.com/helly_patel/) Profile.
+📫 How to reach me: Feel free to drop me an [email](mailto:hellypatel.1104@gmail.com) and also checkout my [leetcode](https://leetcode.com/helly_patel/) Profile.
 
 😄 Pronouns: She/Her.
 
