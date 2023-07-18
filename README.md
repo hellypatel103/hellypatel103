@@ -1,6 +1,6 @@
 ### Hi there 👋
--🔭 I’m currently working on building my portfolio website to showcase my web development projects and skills.
--🌱 I’m currently learning new web technologies and frameworks like React.js and Node.js to expand my skillset.
+🔭 I’m currently working on building my portfolio website to showcase my web development projects and skills.
+🌱 I’m currently learning new web technologies and frameworks like React.js and Node.js to expand my skillset.
 👯 I’m looking to collaborate on open-source web development projects to gain practical experience and contribute to the community..
 💬 Ask me about HTML, CSS, and JavaScript concepts. Java and PHP are my favorite languages to use for backend.
 📫 How to reach me: Feel free to drop me an [email](hellypatel.1104@gmail.com) and also checkout my [linkedIn](https://leetcode.com/helly_patel/) Profile.
