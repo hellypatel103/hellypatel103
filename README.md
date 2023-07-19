@@ -11,7 +11,7 @@
 
 😄 Pronouns: She/Her.
 
-⚡ Fun fact: I am always eager to learn new Technologies. I get lots of bugs while I try something new and I tend not to give up easily untill I get better at it.
+⚡ Fun fact: I am always eager to learn new Technologies. I get lots of bugs while I try something new and I tend not to give up easily untill I solve it.
 
 
 
