@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on building my portfolio website to showcase my web development projects and skills.
 
 🌱 I’m currently learning new web technologies and frameworks like React.js and Node.js to expand my skillset.
 
